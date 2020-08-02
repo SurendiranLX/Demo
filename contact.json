@@ -1,4 +1,5 @@
 {
+    "comparisonData": {
         "scoresPoints": [
             {
                 "headingName": "How to check point system?",
@@ -13,5 +14,5 @@
                 "rowLabel": "Sometimes the points will vary based on the scores given by our provider, but be sure that we'll be double checking the Scores & points before we announce the winners."
             }
         ]
-
+    }
 }

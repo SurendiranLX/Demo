@@ -1,16 +1,18 @@
 {
-    "scoresPoints": [
-        {
-            "headingName": "How to check point system?",
-            "rowLabel": "Go to How to play page and find different points systems for different match formats."
-        },
-        {
-            "headingName": "How much time it will take to get the winning money ?",
-            "rowLabel": "It will take to upto 2-4hr to double check the points of the match and give out the winnings."
-        },
-        {
-            "headingName": "Scores are wrong. Please check and update fast",
-            "rowLabel": "Sometimes the points will vary based on the scores given by our provider, but be sure that we'll be double checking the Scores & points before we announce the winners."
-        }
-    ]
+    "comparisonData": {
+        "scoresPoints": [
+            {
+                "headingName": "How to check point system?",
+                "rowLabel": "Go to How to play page and find different points systems for different match formats."
+            },
+            {
+                "headingName": "How much time it will take to get the winning money ?",
+                "rowLabel": "It will take to upto 2-4hr to double check the points of the match and give out the winnings."
+            },
+            {
+                "headingName": "Scores are wrong. Please check and update fast",
+                "rowLabel": "Sometimes the points will vary based on the scores given by our provider, but be sure that we'll be double checking the Scores & points before we announce the winners."
+            }
+        ]
+    }
 }

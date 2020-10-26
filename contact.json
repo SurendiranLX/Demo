@@ -1,27 +1,150 @@
 {
     "contactTellUs": {
-        
-        
-          "scores": [
+        "wallet": [
             {
-              "question": "How to check the point system?",
-              
-              "description":
-                "vdvd"
+              "question":
+                "My money got debited from bank but not credited into wallet",
+              "answer":
+                "This usually happens due to the slow internet issue or a downtime at the issuing banks end, in any such scenario if a transaction status is pending for more than 5 days there should be a auto reversal in case of any debit against it and the money should fall back to your bank account."
             },
             {
-              "question": "How to check player points breakup?",
-              
-              "description":
-                "dvvd"
+              "question": "How to check account balance ?",
+              "answer":
+                "Please click on 'Others' in the bottom navigation and then 'Wallet' to check your balance."
             },
             {
-              "question": "How to check match full score?",
-               
-              "description":
-                "vvd"
+              "question": "How Walllet works ?",
+              "answer":
+                "Your Wallet has 3 categories: 1)Unutilized Account 2) Cash Bonus Account 3) Withdrawable or Winnings Account. In case any amount added by you through payment gateway exceeds the remaining amount of participation fee, the amount in excess shall be transferred to the User's 'Unutilized' Account . Any amount deposited into the wallet falls into the 'Unutilized' Account. The Cash Bonus Account shall contain amounts gratuitously issued by LeagueX to you for use in participation in some Contests (E.g Sign up bonus, Referral Bonus, Deposit Bonus etc). Your winnings in any Contest will reflect as credits to the Withdrawable/Winnings Account."
+            },
+            {
+              "question": "What are the varoius payment methods are accepted ?",
+              "answer":
+                "We support payments through visa, mastercard, maestro, Amex and Rupay, 50+ netbanking including all major banks, 6 most-popular mobile wallets and UPI. "
+            },
+            {
+              "question": "Why can't I pay using Paytm ?",
+              "answer": "We will be introducing Paytm for payment soon."
+            },
+            {
+              "question":
+                "My money got deducted from bank and didn't got added in wallet, what should i do ?",
+              "answer":
+                "In case of payment failures, don't worry your money will be refunded in 2-5 days"
             }
           ],
-         
+          "withdrawal": [
+            {
+              "question":
+                "Do we need to upload PAN and Bank details for withdrawal ? ",
+              "answer":
+                "Your withdrawals on LeagueX involve transfer of money from your LeagueX  account to your bank account, and hence PAN Card has become a mandatory requirement as a proof of identity. In case you do not have a PAN Card, you can still join contests on LeagueX , and your winnings will be deposited in your LeagueX  account. You can apply for a PAN Card in the meantime & once you receive it, upload it along with the address proof and bank details to get your LeagueX account verified. You will then be able to withdraw any amounts to your bank account."
+            },
+            {
+              "question":
+                "Withdrawal is success but it didn't fall in to my account",
+              "answer":
+                "Your transaction is a success from our end, the money should have fallen into your account.Ideally the withdrawal should instantly fall into your account but sometimes if the payment gateway does not receive clear confirmation from your bank due to system downtime there will be a delay and the money should deposit within 2-4 days."
+            },
+            {
+              "question": "How to withdraw money ?",
+              "answer":
+                "Click on 'Others' in the bottom navigation on mobile and click 'Money Withdrawal', Here you can add your PAN details and Bank details for verification. Once your Bank details are verified you will have the withdraw option enabled."
+            },
+            {
+              "question": "What is the minimum amount to withdraw?",
+              "answer":
+                "Once your account is verified, you can withdraw an amount(minimum INR 300) by raising a request."
+            }
+          ],
+          "referrals": [
+            {
+              "question": "How to refer friends?",
+              "answer":
+                "You can refer a friend by clicking on Profile in the bottom navigation, click 'Invite your Friends', copy your code (which is same as in your profile name) and share it with your friends.  Your profile name is your referral code."
+            },
+            {
+              "question": "How does LeagueX referral system works ?",
+              "answer":
+                "In our new referral policy if you signup with a referral code you are eligible for Rs 200(Rs 100 for signup and Rs 100 Referred bonus).  You will instantly get Rs 25 and 20% of your every deposit is awarded as bonus until a limit of 175 reached. You also can earn up-to Rs 100 for every referral.  For your referral you will instantly get Rs 25 and 20% of the friend's every deposit is awarded as bonus until a limit of 75 reached.  You can also track your earnings per referral by clicking the Invite Friend's button (located in the Profile page). "
+            },
+            {
+              "question": "Do you have affiliate marketing?",
+              "answer":
+                "Yes, we do have affiliate marketing. You can apply for it by contacting us."
+            },
+            {
+              "question": "Why did I get only Rs.25 and not Rs.100?",
+              "answer":
+                "For each referral you will get Rs.25 instantly when he deposits for the first time and you can get remaining Rs.75 whenever you deposit as 20% cashback of that deposited amount."
+            },
+            {
+              "question": "How much total referral bonus i can get?",
+              "answer":
+                "A single user can refer unlimited number of people but the maximum referral money can be earned is Rs.2000."
+            }
+          ],
+          "winnings": [
+            {
+              "question": "I won the league but i did't get the winnings, why? ",
+              "answer":
+                "Your winnings will be added to your Wallet balance within 4 hours of the live match being completed. However, for matches ending late at night, winnings will be added to your account balance the next morning."
+            },
+            {
+              "question": "When will I get the refunds for cancelled matches? ",
+              "answer":
+                "The refunds will be processed once we get the official announcement."
+            }
+          ],
+          "scores": [
+            {
+              "question": "How to check point system?",
+              "answer":
+                "Go to 'How to play page' and find different points systems for different match formats."
+            },
+            {
+              "question": "How much time it will take to get the winning money ?",
+              "answer":
+                "It will take to upto 2-4hr to double check the points of the match and give out the winnings."
+            },
+            {
+              "question": "Scores are wrong. Please check and update fast",
+              "answer":
+                "Sometimes the points will vary based on the scores given by our provider, but be sure that we'll be double checking the Scores & points before we announce the winners."
+            }
+          ],
+          "account": [
+            {
+              "question": "I'm unable to upload my pan card",
+              "answer":
+                "Try refreshing the page and check. If the problem still persists, please brief us with the exact issue you're facing."
+            },
+            {
+              "question": "How can i change my team name?",
+              "answer":
+                "You can not change your team name once its created in the signup process"
+            },
+            {
+              "question": "How do i change my password?",
+              "answer":
+                "Go to your profile and click 'Edit Profile' and find change password form on bottom."
+            },
+            {
+              "question":
+                "Can I upload someone else's pan card and my bank details for verification of my Account?",
+              "answer":
+                "The PAN card and Bank account should belong to one person  to get verified"
+            },
+            {
+              "question": "I want to change my bank details. ",
+              "answer":
+                "Please send us a mail stating the reason that why you want to change your bank details and we'll get back to you to that."
+            },
+            {
+              "question": "I'm not getting the verification email.",
+              "answer":
+                "Sometimes the mails will go in to your spam folder based on the mail service you are using, so check your spam and other folders to find the mail."
+            }
+          ]
     }
 }

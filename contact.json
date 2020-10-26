@@ -10,5 +10,14 @@
               
             },
           ],
+        "wallet": [
+            {
+              "question": "How to check point system?",
+            },
+            {
+              "question": "How to check point system?",
+              
+            },
+          ],
     }
 }

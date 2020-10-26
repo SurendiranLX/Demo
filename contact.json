@@ -99,34 +99,46 @@
           "scores": [
             {
               "question": "How to check the point system?",
-              "points": {
+              "points": [
+                  {
                  "p1":
                 "Click the other tab in the bottom navigation bar."
+                  },
+                  { 
                  "p2":
                 "Select the Cricket or Football system which you have to check."
-              },
+                  }
+              ],
               "description":
                 ""
             },
             {
               "question": "How to check player points breakup?",
-              "points": {
+              "points": [
+                  {
                 "p1":
                 "Select the match and click the full score in the bottom navigation bar."
+                  },
+                  {
                 "p2":
                 "Click the full squad in the tabs and click on the player names to know about the player points breakup."
-              }, 
+                  }
+              ], 
               "description":
                 ""
             },
             {
               "question": "How to check match full score?",
-              "points": {
+              "points": [
+                  {
                 "p1":
                 "Select the match and click the full score in the bottom navigation bar."
+                  }
+                  {
                 "p2":
                 "Click on the team names to check the scoreboard."
-              }, 
+                  }
+              ], 
               "description":
                 ""
             }

@@ -4,19 +4,17 @@
           "scores": [
             {
               "question": "How to check point system?",
-              "answer":
-                "Go to 'How to play page' and find different points systems for different match formats."
+              "points": [
+                  {
+                 "item":
+                "Click the other tab in the bottom navigation bar."
+                  },
+                  { 
+                 "item":
+                "Select the Cricket or Football system which you have to check."
+                  }
+              ],
             },
-            {
-              "question": "How much time it will take to get the winning money ?",
-              "answer":
-                "It will take to upto 2-4hr to double check the points of the match and give out the winnings."
-            },
-            {
-              "question": "Scores are wrong. Please check and update fast",
-              "answer":
-                "Sometimes the points will vary based on the scores given by our provider, but be sure that we'll be double checking the Scores & points before we announce the winners."
-            }
           ],
     }
 }

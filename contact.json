@@ -4,20 +4,7 @@
           "scores": [
             {
               "question": "How to check point system?",
-              "points": [
-                  {
-                 "item":
-                "Click the other tab in the bottom navigation bar.",
-                      "item1":
-                "Click the other tab in the bottom navigation bar."
-                  },
-                  { 
-                 "item":
-                "Select the Cricket or Football system which you have to check.",
-                      "item1":
-                "Click the other tab in the bottom navigation bar."
-                  }
-              ] 
+              
             },
           ],
     }

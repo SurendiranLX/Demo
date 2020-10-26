@@ -18,6 +18,39 @@
                 "Sometimes the points will vary based on the scores given by our provider, but be sure that we'll be double checking the Scores & points before we announce the winners."
             }
           ],
+        "account": [
+            {
+              "question": "I'm unable to upload my pan card",
+              "answer":
+                "Try refreshing the page and check. If the problem still persists, please brief us with the exact issue you're facing."
+            },
+            {
+              "question": "How can i change my team name?",
+              "answer":
+                "You can not change your team name once its created in the signup process"
+            },
+            {
+              "question": "How do i change my password?",
+              "answer":
+                "Go to your profile and click 'Edit Profile' and find change password form on bottom."
+            },
+            {
+              "question":
+                "Can I upload someone else's pan card and my bank details for verification of my Account?",
+              "answer":
+                "The PAN card and Bank account should belong to one person  to get verified"
+            },
+            {
+              "question": "I want to change my bank details. ",
+              "answer":
+                "Please send us a mail stating the reason that why you want to change your bank details and we'll get back to you to that."
+            },
+            {
+              "question": "I'm not getting the verification email.",
+              "answer":
+                "Sometimes the mails will go in to your spam folder based on the mail service you are using, so check your spam and other folders to find the mail."
+            }
+          ]
           
     }
 }
